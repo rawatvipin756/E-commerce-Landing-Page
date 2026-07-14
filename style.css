@@ -1,0 +1,66 @@
+.container{
+    max-width:900px;
+    width:100%;
+    border:1px solid black;
+    margin:auto;
+    padding:10px;
+    border-radius:15px;
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    position:sticky;
+    top:10px;
+    gap:20px;
+}
+.links a{
+    gap:20p;
+}
+nav div a{
+    gap:20px;
+}
+header{
+    text-align:center;
+}
+.cards{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr;
+    gap:20px;
+}
+.card a{
+    gap:20px;
+}
+.card{
+    text-align:center;
+    border:1px solid black;
+    padding:10px;
+}
+img{
+    width:100px;
+    height:100px;
+
+}
+.review{
+    display:grid;
+}
+.review div{
+    max-width:200px;
+    width:90%;
+    border-radius:15px;
+    padding:10px;
+    margin:5px;
+    border:1px solid black;
+}
+.foot{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+}
+.foot a{
+    text-decoration:none;
+    color:black;
+}
+.foot a:hover{
+    color:blue;
+    transform:scale(1.2);
+}
