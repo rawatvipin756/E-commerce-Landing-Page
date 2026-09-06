@@ -34,7 +34,7 @@ ecommerce-landing-page/
 
 ## 📸 Screenshot
 
-(Add screenshot here)
+
 
 ## 🎯 Future Improvements
 
